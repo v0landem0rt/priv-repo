@@ -2,7 +2,7 @@
 This repo conains kubernetes config for postgresql database(postgres.yaml). These database connects with sample flask app( https://github.com/ro6ley/cars_in_a_flask ). File app_deploy.yaml contains kubernetes wrapper for flask app. 
 # Requirements
 * ubuntu 14/16/18
-* kubernetes node installed
+* kubernetes node installed<br />
 To set up this solution, execute following commands:
 * ``` git clone https://github.com/v0landem0rt/priv-repo ```
 * ``` git clone https://github.com/ro6ley/cars_in_a_flask ```
