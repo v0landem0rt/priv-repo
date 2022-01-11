@@ -4,7 +4,8 @@ This repo conains kubernetes config for postgresql database(postgres.yaml). Thes
 * ubuntu 14/16/18
 * kubernetes node installed<br />
 
-To set up this solution, execute following commands:
+To set up this solution, execute following commands:<br />
+
 ``` git clone https://github.com/v0landem0rt/priv-repo ```<br />
 ``` git clone https://github.com/ro6ley/cars_in_a_flask ```<br />
 ``` mv Dockerfile cars_in_a_flask ```<br />
